@@ -1,0 +1,7 @@
+include ':app', ':myviewinterface',
+        ':plugins:blue:blueviewplugin',
+        ':plugins:red:redviewplugin',
+        ':plugins:green:greenviewplugin',
+        ':plugins:green:greenviewpluginimpl',
+        ':plugins:red:redviewpluginimpl',
+        ':plugins:blue:blueviewpluginimpl'
